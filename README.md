@@ -4,4 +4,4 @@
 
 ![cppcheck-action](https://github.com/stepin105091/IntrestCalci/workflows/cppcheck-action/badge.svg)
 
-![Valgrind](https://github.com/stepin105091/IntrestCalci/workflows/Valgrind/badge.svg)
+
